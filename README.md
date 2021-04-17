@@ -21,7 +21,7 @@
 </p>
 <p>
   📣 Necesitas contactarme? escribeme aqui :<br/>
-  <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20contacto&body=Hola%20Esteban%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/eolwebdesing"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/esteban-olejnik-1330081b7"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/riversensacion"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -35,5 +35,5 @@
   💻 En proceso para ser desarrollador <bold>FullStack</bold><br/>
 </p>
 <p>
-  🔗 Si queres contactarme podes enviarme un <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">correo</a>, o visitar mi <a href="#">sitio web</a> !
+  🔗 Si queres contactarme podes enviarme un <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20contacto&body=Hola%20Esteban%20...">correo</a>, o visitar mi <a href="#">sitio web</a> !
 </p><br/>
