@@ -35,5 +35,5 @@
   💻 En proceso para ser desarrollador <bold>FullStack</bold><br/>
 </p>
 <p>
-  🔗 Si queres contactarme podes enviarme un <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">correo/a>, o visitar mi <a href="#">sitio web</a> !
+  🔗 Si queres contactarme podes enviarme un <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">correo</a>, o visitar mi <a href="#">sitio web</a> !
 </p><br/>
