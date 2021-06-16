@@ -30,7 +30,7 @@
 <img src="https://views.whatilearened.today/views/github/Estiby/views.svg"/>
 
 <p>
-  🧔 Soy <bold>Esteban</bold>. 35 Años, Me encanta codear y tomar ☕.<br/>
+  🧔 Soy <bold>Esteban</bold>. 35 Años, Me encanta codear y beber cafe ☕.<br/>
   💼 Vivo en <a href="https://www.google.com/maps/place/Ituzaing%C3%B3,+Provincia+de+Buenos+Aires/">Ituzaingo</a>, en Buenos Aires - Argentina.<br/>
   💻 En proceso para ser desarrollador <bold>FullStack</bold><br/>
 </p>
