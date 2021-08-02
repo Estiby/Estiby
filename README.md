@@ -22,7 +22,7 @@
 <p>
   📣 Necesitas contactarme? escribeme aqui :<br/>
   <a href="mailto:estebanolejnik@gmail.com?subject=[GitHub]%20🔥%20contacto&body=Hola%20Esteban%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/eolwebdesing"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/esteban_olejnik"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/esteban-olejnik-1330081b7"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/riversensacion"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
@@ -30,7 +30,7 @@
 <img src="https://views.whatilearened.today/views/github/Estiby/views.svg"/>
 
 <p>
-  🧔 Soy <bold>Esteban</bold>. 35 Años, Me encanta codear y beber cafe ☕.<br/>
+  🧔 Soy <bold>Esteban Olejnik</bold> me encanta codear y tomar cafe ☕.<br/>
   💼 Vivo en <a href="https://www.google.com/maps/place/Ituzaing%C3%B3,+Provincia+de+Buenos+Aires/">Ituzaingo</a>, en Buenos Aires - Argentina.<br/>
   💻 En proceso para ser desarrollador <bold>FullStack</bold><br/>
 </p>
